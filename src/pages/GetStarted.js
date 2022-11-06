@@ -1,6 +1,7 @@
 import { signInWithGoogle } from "../firebase";
-import "../styles/GetStarted.css";
 import { Helmet } from "react-helmet";
+import "../styles/GetStarted.css";
+
 
 function GetStarted () {
   return (
